@@ -20,3 +20,29 @@
 .background {
   background-color: beige;
 }
+
+a {
+  color: chocolate;
+  text-decoration: none;
+}
+
+ul li {
+  color: chocolate;
+}
+
+/* ------------- Pseudo class ------------- */
+
+a:hover {
+  color: rgb(165, 82, 23);
+  cursor: pointer;
+}
+
+/* ------------- End pseudo class ------------- */
+
+/* ------------- Pseudo element ------------- */
+
+ul li:last-child {
+  color: black;
+}
+
+/* ------------- End pseudo element ------------- */
