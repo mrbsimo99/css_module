@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.font-size
+{
+font-size: 30px;
+}
+
+.title{
+    color: chocolate;
+}
+
+.background {
+    background-color: beige;
+}
