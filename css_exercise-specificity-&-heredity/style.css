@@ -1,0 +1,32 @@
+/* -----Inizio specificità-----  */
+
+p {
+  color: aquamarine;
+}
+
+.testo {
+  color: blue;
+}
+
+#prova {
+  color: aqua;
+}
+
+/* -----Fine specificità-----  */
+
+/* ------Ereditarietà------ */
+
+.container {
+  color: violet;
+  text-align: center;
+}
+
+.container p {
+  color: violet;
+}
+
+.container ul {
+  list-style: none;
+}
+
+/* ------ Fine Ereditarietà------ */
