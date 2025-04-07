@@ -1,18 +1,22 @@
-*{
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
+/* ------------- Selettore universale ------------- */
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
 }
 
-.font-size
-{
-font-size: 30px;
+/* ------------- Fine Selettore universale ------------- */
+
+.font-size {
+  font-size: 30px;
 }
 
-.title{
-    color: chocolate;
+.title,
+.text {
+  color: chocolate;
 }
 
 .background {
-    background-color: beige;
+  background-color: beige;
 }
