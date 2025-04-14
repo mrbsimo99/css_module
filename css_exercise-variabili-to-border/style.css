@@ -1,0 +1,5 @@
+@import url(/css_exercise-variabili-to-border/root.css);
+
+*{ 
+    color: var(--primary-color);
+}
