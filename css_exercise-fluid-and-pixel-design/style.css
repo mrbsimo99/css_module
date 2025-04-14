@@ -1,0 +1,16 @@
+body {
+  width: 1500px;
+  height: 1500px;
+}
+
+.box1 {
+  width: 10%;
+  height: 10%;
+  background-color: aqua;
+}
+
+.box2 {
+  width: 150px;
+  height: 150px;
+  background-color: chocolate;
+}
