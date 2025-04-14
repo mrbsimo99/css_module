@@ -1,0 +1,11 @@
+.content {
+  font-size: 8px;
+}
+
+.content p {
+  font-size: 7rem;
+}
+
+.content p:last-child {
+  font-size: 7em;
+}
