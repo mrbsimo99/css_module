@@ -34,6 +34,18 @@ nav {
   gap: 30px;
 }
 
+.nav__menu .nav__menu-content {
+  position: relative;
+}
+
+.square {
+  position: absolute;
+  width: 150px;
+  height: 150px;
+  background-color: violet;
+  right: 10px;
+}
+
 footer {
   position: fixed;
   bottom: 0;
