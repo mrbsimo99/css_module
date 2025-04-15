@@ -22,6 +22,11 @@ nav {
 
 nav a {
   text-decoration: none;
+  color: black;
+}
+
+nav a:hover {
+  color: white;
 }
 
 .content {
