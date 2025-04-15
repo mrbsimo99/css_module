@@ -1,0 +1,27 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+}
+
+nav {
+  position: sticky;
+  top: 0;
+  background-color: chocolate;
+}
+
+.nav__menu {
+  padding: 10px 20px;
+  display: flex;
+  gap: 30px;
+}
