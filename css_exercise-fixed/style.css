@@ -1,0 +1,31 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+}
+
+a:hover {
+  color: blueviolet;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+}
+
+nav {
+  background-color: violet;
+  position: fixed;
+  width: 100%;
+}
+
+.nav__menu {
+  padding: 10px 20px;
+  display: flex;
+  gap: 30px;
+}
