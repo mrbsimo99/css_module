@@ -6,7 +6,7 @@
 
 h1,
 p {
-  padding: 20px;
+  padding: var(--element-padding);
 }
 
 .header {
