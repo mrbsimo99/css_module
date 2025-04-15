@@ -1,0 +1,21 @@
+/* -------FLOAT1------- */
+
+.container p {
+  display: inline;
+}
+
+.container img {
+  float: right;
+  margin-right: 750px;
+}
+
+.container .float1-content {
+  padding: 20px;
+}
+
+/* -------FLOAT2------- */
+
+.container .float2-content {
+  padding: 20px;
+  clear: right;
+}
