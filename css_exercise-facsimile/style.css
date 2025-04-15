@@ -8,5 +8,33 @@
   padding: 16px;
 }
 
-.container {
+header {
+  text-align: center;
+  background-color: coral;
+}
+
+nav {
+  text-align: center;
+  background-color: coral;
+}
+
+nav a {
+  text-decoration: none;
+}
+
+.content {
+  display: flex;
+  background-color: coral;
+  justify-content: center;
+}
+
+.content .content__main {
+  background-color: chocolate;
+  margin-left: 75px;
+  margin-right: 75px;
+}
+
+footer {
+  background-color: coral;
+  text-align: center;
 }
