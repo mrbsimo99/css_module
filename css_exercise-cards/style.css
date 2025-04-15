@@ -1,0 +1,58 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.card {
+  margin: 40px;
+  width: 300px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  transition: 0.3s;
+  border-radius: 5px;
+}
+
+.card:hover {
+  box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
+}
+
+.text {
+  padding: 2px 16px;
+}
+
+.text h4 {
+  margin: 10px 0px;
+}
+
+.text p {
+  margin: 18px 0px;
+}
+
+.card img {
+  position: relative;
+  width: 100%;
+  height: auto;
+  border-radius: 5px 5px 0 0;
+}
+
+svg {
+  width: 8px;
+  fill: red;
+}
+
+a {
+  padding: 1px;
+  text-decoration: none;
+  position: absolute;
+  top: 50px;
+  left: 320px;
+  color: white;
+  border: 1.5px solid;
+  border-radius: 5px;
+}
+
+span {
+  color: rgb(255, 0, 0);
+  background-color: 7faf4c;
+  font-weight: 250;
+}
