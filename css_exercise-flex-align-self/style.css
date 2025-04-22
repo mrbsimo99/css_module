@@ -1,0 +1,26 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  width: 750px;
+  height: 750px;
+}
+
+.item {
+  width: 150px;
+  height: 150px;
+  border: 2px solid chartreuse;
+}
+
+.item:first-child {
+  align-self: flex-end;
+}
+
+.item:last-child {
+  align-self: center;
+}
