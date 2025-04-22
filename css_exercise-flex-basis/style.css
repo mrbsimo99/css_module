@@ -1,0 +1,20 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+}
+
+.item {
+  width: 300px;
+  height: 300px;
+  border: 2px solid rgb(0, 255, 238);
+}
+
+.item:nth-child(2) {
+  flex-basis: 10%;
+}
