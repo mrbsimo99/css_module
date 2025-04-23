@@ -9,6 +9,7 @@
   grid-template-columns: auto auto auto;
   background-color: red;
   padding: 20px 40px;
+  align-items: center;
 }
 
 .grid-container > div {

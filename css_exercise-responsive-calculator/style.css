@@ -69,6 +69,7 @@ span {
   box-shadow: 10px 10px 5px #e2d0d0;
 }
 
+/* ------------------------ SMARTPHONES ----------------------------- */
 @media (max-width: 600px) {
   .calculator {
     width: 80%;
